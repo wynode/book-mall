@@ -3,12 +3,12 @@
 跟着网上买的课程，一个多月零零散散的时间，终于是把这个项目完成了。这也是自己第一个用完整框架技术栈搭建的项目，对比之前自己在Sublime里手写每一行代码的刀耕火种的日子，用框架实在是舒服很多。代价也是明显的，你需要去适应另一种编码方式，常常也是右边Sublime，左边搜索引擎。
 
 
-你可以通过[这个网址](www.wynode.shop)（www.wynode.shop）访问到我的项目（PC端和移动端均可）。
+你可以通过[这个网址](mall.wynode.com)（mall.wynode.com）访问到我的项目（PC端和移动端均可）。
 #### 二、项目截图
 PC端
-![PC端](http://ol1l09l0b.bkt.clouddn.com/mall.gif)
+![PC端](https://github.com/wynode/book-mall/blob/master/static/mall.gif)
 移动端
-<img src="http://ol1l09l0b.bkt.clouddn.com/mall2.png" width="50%" height="50%">
+<img src="https://github.com/wynode/book-mall/blob/master/static/mall2.png" width="50%" height="50%">
 #### 三、技术栈
 前端：vue2 + vuex + vue-router + axios + webpack + ES6
 服务端：nodejs + express + mongoose
@@ -24,7 +24,7 @@ PC端
 跟大多数node项目一样
 ``` javascript
 git clone https://github.com/wynode/book-mall.git
-cd bool-mall
+cd book-mall
 cnpm install
 node server/bin/www
 cnpm start
